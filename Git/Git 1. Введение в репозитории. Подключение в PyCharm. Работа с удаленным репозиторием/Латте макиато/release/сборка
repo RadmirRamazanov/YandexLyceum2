@@ -1,0 +1,4 @@
+тк на гитхаб нельзя кидать 25mb+ файлы:
+pip install pyinstaller
+pyinstaller --onefile --noconsole main.py
+закидываем main.exe в release
